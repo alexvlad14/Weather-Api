@@ -4,3 +4,5 @@
 
 The Weather API provides access to weather data for various locations around the world. It offers real-time weather information and forecasts.
 
+![Screenshot_1](weather.png)
+
